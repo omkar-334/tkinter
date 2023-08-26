@@ -13,10 +13,10 @@ The input entries can be the student name , admission number or phone number. On
 
 Here are screenshots showing the Entries and results-
 
-* On running code![1677745834657](image/README/1677745834657.png)
-* On entering Student Name![1677745883281](image/README/1677745883281.png)
-* On entering Admission number![1677745934611](image/README/1677745934611.png)
-* On entering phone number![1677746020942](image/README/1677746020942.png)
+* On running code![1677745834657](images/1677745834657.png)
+* On entering Student Name![1677745883281](images/1677745883281.png)
+* On entering Admission number![1677745934611](images/1677745934611.png)
+* On entering phone number![1677746020942](images/1677746020942.png)
 
 It shows other fields like Fee details and Receipt Number when admission number is entered as it is a unique value.
 
